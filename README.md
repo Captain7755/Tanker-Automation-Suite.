@@ -30,4 +30,4 @@ LinkedIn: [Добавь ссылку на свой профиль, если ес
 
 WhatsApp/Telegram: По запросу через CV.
 
-© 2026 Captain7755. All rights reserved. Prepared for ALCO SHIPPING and professional maritime community.
+© 2026 Captain7755. All rights reserved. Prepared For Professional Maritime Community.
