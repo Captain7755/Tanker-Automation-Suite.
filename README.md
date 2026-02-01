@@ -8,23 +8,23 @@
 ## 📋 Package Contents:
 
 ### 📊 Cargo Blending Calculator (.xls)
-* **Precision Control:** Universal tool for cargo blending calculations.
+* **Precision Control:** Universal tool for complex cargo blending calculations.
 * **Standards:** ASTM-compliant formulas to minimize operational errors and maximize commercial efficiency.
 
 ### ⚖️ Marine Legal Support: LOP & NOR 2026 (.xlsx)
-* **Defense Shield:** Over 30+ professionally drafted templates for **Letters of Protest (LOP)** and **Notice of Readiness (NOR)**.
-* **Scenarios:** Covers cargo shore-ship differences, delays, port requirements, and commercial disputes. Updated for 2026 requirements.
+* **Defense Shield:** 30+ professionally drafted templates for **Letters of Protest (LOP)** and **Notice of Readiness (NOR)**.
+* **Scenarios:** Covers ship/shore difference, delays, port requirements, and commercial disputes. Fully updated for 2026.
 
 ### 📅 Vessel Certificate Tracker (.xls)
 * **Compliance:** Automated monitoring system for vessel and crew documentation.
-* **Alert System:** Keeps track of expiry dates to ensure zero-deficiency status during audits (Vetting/PSC).
+* **Alert System:** Tracks expiry dates to ensure "Zero Deficiency" status during Vetting and PSC inspections.
 
 ---
 
 ## 👨‍✈️ About the Author
-Experienced Master/Chief Officer specializing in the tanker fleet. I bridge the gap between traditional seamanship and modern digital efficiency to enhance safety and commercial performance.
+Experienced Master / Chief Officer specializing in the tanker fleet. I bridge the gap between traditional seamanship and modern digital efficiency to enhance safety and commercial performance.
 
-**Current Status:** Open for professional opportunities (**Captain**).
+**Current Status:** Open for professional opportunities (**CAPTAIN**).
 
 ---
 
