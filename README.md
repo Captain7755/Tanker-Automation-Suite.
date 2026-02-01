@@ -24,7 +24,7 @@
 ## 👨‍✈️ About the Author
 Experienced Master/Chief Officer specializing in the tanker fleet. I bridge the gap between traditional seamanship and modern digital efficiency to enhance safety and commercial performance.
 
-**Current Status:** Open for professional opportunities (**Master / Chief Officer**).
+**Current Status:** Open for professional opportunities (**Captain**).
 
 ---
 
