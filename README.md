@@ -1,36 +1,36 @@
-# # 🚢 Tanker-Automation-Suite v2026 
-**Professional Digital Toolkit for Tanker Masters & Senior Officers**
+# ## 🚢 Пакет программ автоматизации для танкеров v2026
 
-*A comprehensive suite of tools designed to automate cargo operations, ensure legal protection, and streamline certificate management.*
-
----
-
-## 📋 Package Contents:
-
-### 📊 Cargo Blending Calculator (.xls)
-* **Precision Control:** Universal tool for complex cargo blending calculations.
-* **Standards:** ASTM-compliant formulas to minimize operational errors and maximize commercial efficiency.
-
-### ⚖️ Marine Legal Support: LOP & NOR 2026 (.xlsx)
-* **Defense Shield:** 30+ professionally drafted templates for **Letters of Protest (LOP)** and **Notice of Readiness (NOR)**.
-* **Scenarios:** Covers ship/shore difference, delays, port requirements, and commercial disputes. Fully updated for 2026.
-
-### 📅 Vessel Certificate Tracker (.xls)
-* **Compliance:** Automated monitoring system for vessel and crew documentation.
-* **Alert System:** Tracks expiry dates to ensure "Zero Deficiency" status during Vetting and PSC inspections.
+**Профессиональный цифровой инструментарий для капитанов и старших офицеров.**
+*Комплексный набор инструментов для автоматизации грузовых операций, юридической защиты и управления сертификатами.*
 
 ---
 
-## 👨‍✈️ About the Author
-Experienced Master / Chief Officer specializing in the tanker fleet. I bridge the gap between traditional seamanship and modern digital efficiency to enhance safety and commercial performance.
+## 📋 Содержимое пакета:
 
-**Current Status:** Open for professional opportunities (**CAPTAIN**).
+### 📊 Калькулятор смешивания грузов (.xls)
+* **Высокоточный контроль:** Универсальный инструмент для сложных расчетов смешивания (Blending).
+* **Стандарты:** Формулы ASTM для минимизации ошибок и максимизации коммерческой эффективности.
+
+### ⚖️ Юридическая поддержка: LOP & NOR 2026 (.xlsx)
+* **Defense Shield:** Более 30 профессиональных шаблонов **Letters of Protest (LOP)** и **Notice of Readiness (NOR)**.
+* **Сценарии:** Различия Ship/Shore, задержки, требования портов и коммерческие споры. Обновлено для 2026 года.
+
+### 📅 Система отслеживания сертификатов судна (.xls)
+* **Compliance:** Автоматизированный мониторинг документов судна и экипажа.
+* **Система оповещения:** Контроль сроков для прохождения проверок **Vetting** и **PSC** без замечаний.
 
 ---
 
-## 📧 Contact Details
-* **WhatsApp/Telegram:** Available upon request via CV.
+## 👨‍✈️ Об авторе
+Опытный капитан / старший помощник, специализирующийся на танкерном флоте. Я объединяю традиционную морскую практику с цифровыми технологиями для повышения безопасности и эффективности.
+
+**Текущий статус:** Открыт для предложений (**Master / Chief Officer**).
+
+---
+
+## 📧 Контактная информация
+* **WhatsApp/Telegram:** По запросу через резюме (CV).
 * **GitHub Profile:** [Captain7755](https://github.com/Captain7755)
 
 ---
-*© 2026 Captain7755. All rights reserved. Prepared for the global maritime community and strategic partners.*
+*© 2026 Captain7755. Все права защищены. Подготовлено для мирового морского сообщества и стратегических партнеров.*
